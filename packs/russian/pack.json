@@ -1,0 +1,26 @@
+{
+  "format": "word-drift-language-pack",
+  "format_version": 1,
+  "id": "russian",
+  "version": "2026.11.07",
+  "language": "Russian",
+  "translation_language": "English",
+  "description": "Russian A1–B2 study lists, approximate C1/C2 advanced starters, and offline noun case forms.",
+  "license": "CC-BY-SA-4.0",
+  "attribution": "OpenRussian contributors; SMARTool authors; see the source READMEs and license notices in this pack.",
+  "license_files": [
+    "data/CC-BY-SA-4.0",
+    "data/levels/CC-BY-4.0"
+  ],
+  "levels": {
+    "A1": "data/levels/a1.tsv",
+    "A2": "data/levels/a2.tsv",
+    "B1": "data/levels/b1.tsv",
+    "B2": "data/levels/b2.tsv",
+    "C1": "data/levels/c1.tsv",
+    "C2": "data/levels/c2.tsv",
+    "starter": "russian-core.tsv"
+  },
+  "source_manifest": "data/levels/manifest.json.gz",
+  "russian_nouns": "data/russian-nouns.json.gz"
+}

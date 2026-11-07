@@ -1,0 +1,28 @@
+{
+  "format": "word-drift-language-pack",
+  "format_version": 1,
+  "id": "spanish",
+  "version": "2026.11.07",
+  "language": "Spanish",
+  "translation_language": "English",
+  "description": "4,013 dictionary-checked Spanish headwords. Approximate A1–C2 study bands. Noncommercial data license.",
+  "license": "CC-BY-NC-SA-4.0",
+  "attribution": "CENTAL/UCLouvain ELELex; MCR/Open Multilingual Wordnet; Princeton WordNet; Facebook Research MUSE. See the source README.",
+  "license_files": [
+    "data/spanish/CC-BY-3.0",
+    "data/spanish/CC-BY-NC-4.0",
+    "data/spanish/CC-BY-NC-SA-4.0",
+    "data/spanish/MCR-LICENSE",
+    "data/spanish/WORDNET-LICENSE"
+  ],
+  "levels": {
+    "A1": "data/spanish/a1.tsv",
+    "A2": "data/spanish/a2.tsv",
+    "B1": "data/spanish/b1.tsv",
+    "B2": "data/spanish/b2.tsv",
+    "C1": "data/spanish/c1.tsv",
+    "C2": "data/spanish/c2.tsv",
+    "starter": "data/spanish/starter.tsv"
+  },
+  "source_manifest": "data/spanish/manifest.json.gz"
+}

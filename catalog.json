@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "russian",
+      "language": "Russian",
+      "version": "2026.11.07",
+      "description": "Russian A1–B2 study lists, approximate C1/C2 advanced starters, and offline noun case forms.",
+      "license": "CC-BY-SA-4.0",
+      "attribution": "OpenRussian contributors; SMARTool authors; see the source READMEs and license notices in this pack.",
+      "url": "https://github.com/JavaDerek/screensaver-language-packs/releases/download/packs-2026.11.07/russian-2026.11.07.wordpack",
+      "size": 2196672,
+      "sha256": "6ca0f61d05c4a4c605f98670a1763997eb1b41ebf4d4bcfcbbafbd7287a6aa42"
+    },
+    {
+      "id": "spanish",
+      "language": "Spanish",
+      "version": "2026.11.07",
+      "description": "4,013 dictionary-checked Spanish headwords. Approximate A1–C2 study bands. Noncommercial data license.",
+      "license": "CC-BY-NC-SA-4.0",
+      "attribution": "CENTAL/UCLouvain ELELex; MCR/Open Multilingual Wordnet; Princeton WordNet; Facebook Research MUSE. See the source README.",
+      "url": "https://github.com/JavaDerek/screensaver-language-packs/releases/download/packs-2026.11.07/spanish-2026.11.07.wordpack",
+      "size": 2639533,
+      "sha256": "04258f423254c72a9c2c02c7b1bc78e924e8e3d6ed267b0f30ba13d9d5934e75"
+    }
+  ]
+}
