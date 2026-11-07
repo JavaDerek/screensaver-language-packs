@@ -124,7 +124,8 @@ python3 scripts/language_pack.py remove French
 There are no archive directory entries, duplicate members, encrypted entries,
 symlinks or other special files. Absolute paths, `..`, backslashes, colons and
 control characters are rejected. ZIPs are limited to 32 MiB compressed, 128 MiB
-expanded, 512 payload files and a 256 KiB manifest. Every inventory size and hash
+expanded, 512 payload files and a 256 KiB manifest. Each vocabulary file is limited
+to 8 MiB and 100,000 lines plus its header. Every inventory size and hash
 is checked before activation. An invalid or interrupted update leaves the old
 version selected. Pack installs/removals are serialized across processes, and an
 atomic index replacement activates a fully validated generation. These checks
